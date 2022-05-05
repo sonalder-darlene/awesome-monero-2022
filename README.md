@@ -144,6 +144,8 @@ A curated list of awesome resources for the Monero crypto-currency
 - Tutorial
     - [Run a Monero Node (Advanced)](https://sethforprivacy.com/guides/run-a-monero-node-advanced/) - Tutorial by Seth For Privacy
     - [MONERO OFFICIAL FULLNODE VIA TOR WITH DOCKER-COMPOSE](https://yewtu.be/watch?v=OviYhLZ02qg) - Video tutorial from Luigi Tech
+- Ressources
+    - [PiNode XMR](https://github.com/monero-ecosystem/PiNode-XMR) - Run a Monero node on a RaspberryPi
 
 ## Related Projects
 - Monero Projects
